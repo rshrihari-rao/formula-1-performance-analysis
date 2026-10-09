@@ -122,7 +122,7 @@ See `insights/analysis_notes.md` for key findings and analytical notes.
 
 ## Dashboard Preview
 
-![Formula 1 Performance Dashboard](screenshots/dashboard_overview.png)
+![Formula 1 Performance Dashboard](dashboard_overview.png)
 
-![F1 Dashboard - Additional view](screenshots/dashboard_overview2.png)
+![F1 Dashboard - Additional view](dashboard_overview2.png)
 
